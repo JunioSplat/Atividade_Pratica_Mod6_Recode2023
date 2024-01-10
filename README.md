@@ -16,3 +16,8 @@ Desenvolver as APIs para manipulação de dados em C#
 Front-end
 
 Criar uma interface  usando React.Js ou Next.Js  para consultas usando API em C#. 
+Projeto funcional 
+⬇️⬇️⬇️⬇️⬇️
+![image](https://github.com/JunioSplat/Atividade_Pratica_Mod6_Recode2023/assets/65143899/08cfe3f8-1d58-4795-8cd5-250feb279c73)
+![image](https://github.com/JunioSplat/Atividade_Pratica_Mod6_Recode2023/assets/65143899/1af43edc-2668-46d2-84d3-42e9cfe23250)
+
